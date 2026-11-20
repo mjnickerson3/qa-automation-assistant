@@ -82,3 +82,8 @@ This prototype demonstrates how AI-assisted tools can help generate automation s
 
 This project was created for educational purposes as part of an AI Project Prototype assignment.
 
+## Prototype Screenshot
+
+<img width="767" height="402" alt="image" src="https://github.com/user-attachments/assets/ec60232a-e369-49b9-a137-37f1b90b96c6" />
+
+
